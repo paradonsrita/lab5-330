@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "tree-removebg-preview",
+  "identifier": "texture:534884-24a145e5-b319-4535-91cd-e85014fadbcd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3a1426fb9e6e1d9d12a252f80bf70cd1",
+  "assetLocator": "textures/tree-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 222,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 125,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3a1426fb9e6e1d9d12a252f80bf70cd1",
+      "colorCount": 4423,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.803635815164626,
+      "pixelsHigh": 222,
+      "pixelsWide": 125
+    }
+  ]
+}

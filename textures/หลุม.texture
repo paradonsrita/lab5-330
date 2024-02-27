@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "หลุม",
+  "identifier": "texture:412113-24a145e5-b319-4535-91cd-e85014fadbcd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2cd62d6f3210ce4ebef124010e85f7b5",
+  "assetLocator": "textures/หลุม.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 63,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 130,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2cd62d6f3210ce4ebef124010e85f7b5",
+      "colorCount": 3080,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 10.305366696959343,
+      "pixelsHigh": 63,
+      "pixelsWide": 130
+    }
+  ]
+}

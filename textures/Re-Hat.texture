@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Re-Hat",
+  "identifier": "texture:309375-96e45850-25a4-4a35-8af7-2ce0ce9702ad",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a510b441da330e32395811f5e5540c63",
+  "assetLocator": "textures/Re-Hat.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 77,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 258,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a510b441da330e32395811f5e5540c63",
+      "colorCount": 5654,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 7.227079887785183,
+      "pixelsHigh": 77,
+      "pixelsWide": 258
+    }
+  ]
+}

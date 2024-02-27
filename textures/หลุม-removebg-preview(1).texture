@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "หลุม-removebg-preview(1)",
+  "identifier": "texture:420869-24a145e5-b319-4535-91cd-e85014fadbcd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "cbab3f83d1f61a41bcf775b3ce166635",
+  "assetLocator": "textures/หลุม-removebg-preview(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 63,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 130,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "cbab3f83d1f61a41bcf775b3ce166635",
+      "colorCount": 1530,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.302989428535392,
+      "pixelsHigh": 63,
+      "pixelsWide": 130
+    }
+  ]
+}
